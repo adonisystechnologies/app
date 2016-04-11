@@ -1,0 +1,155 @@
+body{float: left;width: 100%;position: relative; background: none repeat scroll 0 0 rgba(17, 16, 16, 0.99);/*background-image: url('../images/panaromic.jpg');*/background-size:cover;}
+    .body_container{float: left;width: 100%;}
+    .menu_container{float: left;width: 100%;height: 100px;background-color: #a46f15;}
+    .main_conatiner{margin: 0 auto;width: 1000px;background:rgba(255, 255, 255, 0.83);height: 1200px;margin-top: 100px;}
+    .main_inner{float: left;width: 95%;margin: 20px;}
+    .facilities_banner{float: left;width: 100%;background:url("../images/facilities.jpg");height: 200px}
+    .facilities_strip{float: left;width: 100%;height: 40px;background-color: #000;margin-top: 160px}
+   .bookhotel_container{float: left;width: 300px;height: 200px;background:rgba(224, 17, 20, 0.82);position: relative;top:-40px;margin-left: 5px}
+    .booking_form_container{float: left;width: 300px;height: 200px;background:rgba(45, 135, 19, 0.91);position: relative;top:-40px;margin-left: 5px}    
+    .reservation_heading{float: left;font-size: 16px;width: 300px;text-align: center;color: #fff;text-transform: uppercase;margin-top: 10px}
+    .booking_form{float: left;width: 100%;padding-bottom: 5px;padding:0px 15px 15px 15px}
+    .form-group label{color: #000}
+     #exampleInputpromo{width: 200px;height: 25px;font-size: 12px;}
+     .booknow_img{float: right;margin-top: -20px;}
+     .booking_container{float: left;width: 100%;}
+     .top_border{margin: 0 auto;width: 1000px;height: 200px;margin-top: 5px;}
+    .about_banner_container{float: left;width: 100%;margin-top: 10px;}
+    .about_content_container{float: left;width: 100%;margin-top: 10px;margin-left: 10px;margin-bottom: 30px;}
+    .about_heading{float: left;width: 100%;margin-top: 0px;margin-left: 10px;font-size: 25px;color: #850002;text-transform: uppercase;}
+    .contact_details{float: right;width: 300px;}
+    .contact_form{float: left;width: 300px;}
+    .contact_heading{float: left;color:#850002;font-size: 20px;text-transform: uppercase;margin-bottom: 20px; width: 100%;}
+    .contact_subheading{float: left;color:#850002;font-size: 17px;margin-bottom: 20px;width: 100%;}
+    .contact_details span a{color: red;font-size: 11px;text-decoration: underline;}
+    .contact_details span a:hover{color: green;}
+    .contact_details ul li{color: #000;}
+    .map_container{float: left;width: 100%;height: 300px;}
+    .bookhotel_type_container{float: left;width: 100%;margin-top: 30px;margin-left: 20px;}
+    .hotel_box{float: left;width: 96%;border-bottom: 1px dotted #434343;}
+    .hotel_box_inner{float: left;width: 100%;padding: 20px;}
+    .hotel_img{float: left;}
+    .hotel_img img{border:4px solid #fff555;}
+    .hotel_content{float: left;width: 600px;padding: 10px;}
+    .hotel_heading{float: left;width: 100%;font-size: 25px;color: #850002}
+    .content_container{float: left;width: 100%;margin-top: 10px;}
+    .content_container ul li{float: left;width: 100%;font-size: 12px;color: #000;}
+    .book_button{float: left;margin-top: 20px;}
+    .room_container{float: left;width: 100%;margin-top: 20px;}
+    .room_heading{float: left;width: 100%;margin-top: 0px;margin-left: 10px;font-size: 25px;color: #80407a;text-transform: uppercase;}
+    .room_box{float: left;width: 220px;height: 270px;background-color: #E4E9EA;border:1px solid #BBC2C3;margin-right: 10px;margin-top: 10px;}
+    .room_heading_inner{float: left;width: 100%;margin-top: 0px;margin-left: 10px;font-size: 15px;font-weight: bold;color: #80407a;text-transform: uppercase; }
+    .room_content{float: left;height: 90px;font-size: 9px;padding: 10px;color: #000;line-height: 15px}
+    .readmore{float: left;width: 100%;margin-left: 10px;}
+    .readmore a{color: #996821 ;font-size: 9px;}
+    .readmore a:hover{color: #000 ;text-decoration: underline;}
+	.rservation_main_conatiner{margin: 0 auto;width: 1000px;height: 900px;margin-top: 100px;background:rgba(17, 16, 16, 0.83);}
+	.reservation_container{float:left;width: 1000%;margin-top: 5px;}
+	.reservation_content_container{ clear:both;margin-top:10px;background:#fff;height:580px; border-radius:5px;display: table;width: 100%;margin-bottom: 50px;}
+.reservation_design_container{float:left;margin-left:320px;background:url("../images/top-title.png")no-repeat;width:400px;height:70px;}
+.reservation-banner{float:left;margin-left:15px;margin-top:5px;}
+.reservation_content_container h2{padding: 25px 0;margin-left:10px;/*margin-top:30px;*/margin-bottom:0px;font-family:arial; text-align:center}
+.dining_content{float:left;width:700px;color: transparent;text-shadow: 0 0 5px rgba(0,0,0,0.5);}
+	.dining_img{float:right;border:2px solid orange;height:150px;}
+	.dining_content2{float:right;width:700px;color: transparent;text-shadow: 0 0 5px rgba(0,0,0,0.5);}
+	.dining_img2{float:left;border:2px solid orange;height:150px;}
+	.dining_inner_container{float:left;width:100%;padding-bottom:20px;}
+	
+	
+	.mainMatterArea {
+    color: #000;
+    font-family: tahoma;
+    font-size: 11px !important;
+    line-height: 1.5;
+    text-align: justify;
+}
+.sbutton {
+    background: none repeat scroll 0 0 #a46f15;
+    border: medium none;
+    border-radius: 4px;
+    color: #fff;
+    margin: 20px 0 20px 0;
+    width: 60px;
+}
+.img{
+	clear:both;
+	margin:4px;
+	}
+.img p{
+	color: #3b3b3b;
+    font-family: arial;
+    font-size: 14px;
+    line-height: 27px;
+    padding: 12px;
+    text-align: justify;
+	}
+.one-third.column {
+    width: 300px;
+	float:left;
+	margin:0 5px;
+}
+.one-third.column ul li{
+	color: #3b3b3b;
+    font-family: arial;
+    font-size: 13px;
+    line-height: 27px;
+	text-decoration:underline;
+	}
+.thumb{
+	background-color: #e4e9ea;
+    float: left;
+    margin: 10px 12px;
+    width: 440px;
+	}
+.thumb h3{
+	color:#850002;
+	margin:0 10px;
+	font-size: 27px;
+	}
+.text1{
+	float:left;
+	width:685px;
+	color: #3b3b3b;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 23px;
+    padding: 12px;
+    text-align: justify;
+	}
+.pic{
+	float:right;
+	margin: 12px;
+	}
+.pic img{
+	border:5px solid #CCC;
+	}
+.h3new{
+	color: #850002;
+    font-size: 27px;
+    margin: 0 10px;
+	}
+    .form-control{border-radius: 0px;}
+    .main_fields tr{height: 40px;float: left;}
+    .main_fields tr td{float: left;margin-right: 50px;margin-bottom: 10px}
+.btn-danger{width: 198px}
+.reservation_form_container{float: left;width: 100%;}
+.reservation_form_container table{float: left;margin-left: 100px;}
+.reservation_form_container tr td{float: left;width: 200px;margin-bottom: 10px}
+.reservation_form_container tr td span input{float: left;width: 60px}
+.reservation_form_container tr td span{float: left;margin-right: 5px;}
+.packages{background: none repeat scroll 0 0 #a46f15;
+    border: 1px solid #743f00;
+    color: #fff;
+    font-family: calibri;
+    font-size: 25px;
+    margin-bottom: 20px;
+    padding: 8px 0;
+    text-align: center;
+    width: 100%;}
+#packages  {margin-bottom:30px; }    
+#packages ul {text-align:center }
+    #packages ul li {color: #2a6496 !important; }
+    #packages ul li a{color: #000 !important; }
+    #packages h5{color: #000; font-size:16px;line-height:2.1rem; text-align:center; }
+    #packages b{color: #4c88b1 !important; }
+#packages span {color: #cb3600; font-weight: bold; text-decoration: underline;}
